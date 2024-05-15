@@ -20,6 +20,9 @@ Language: Java
 
 IDE: Any Java-supported Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans.
 
+# Installation 
+Compile and Run:  Open the project in your preferred IDE and run the Main.java file.
+
 # Prerequisites
 Java Development Kit (JDK) 8 or higher
 An IDE or text editor for writing and running Java code
