@@ -4,7 +4,7 @@ Welcome to the **Car Rental System** project! This system is designed to manage 
 
 
 ## Demo:
-https://youtu.be/kuxhrtHDe8I?si=1NIapNain9YurSwH
+https://www.youtube.com/watch?v=DNmowSwR04k
 ## **Features**
 
 - **Add Cars**: Administrators can add cars to the rental system, specifying the car ID, brand, model, and base price per day.
@@ -15,9 +15,9 @@ https://youtu.be/kuxhrtHDe8I?si=1NIapNain9YurSwH
 
   ## Screenshots:
 
-![image](https://github.com/user-attachments/assets/43fa54af-0a5a-4863-a19f-78eaea98c44b)
-![image](https://github.com/user-attachments/assets/a8994bc0-5a70-490f-bcfa-7cbe74a428ae)
-![image](https://github.com/user-attachments/assets/356d3c67-735b-4263-a553-b037ae979aef)
+![image](https://github.com/user-attachments/assets/021518ce-7ff7-4c65-bfcd-d316308413f6)
+![image](https://github.com/user-attachments/assets/6abd4e62-e7aa-476d-8c72-116159e104bd)
+![image](https://github.com/user-attachments/assets/c68fab8f-b584-475b-964e-a2cbde8913b0)
 
 ## **Technology Stack**
 
